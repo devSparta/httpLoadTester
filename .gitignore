@@ -1,0 +1,4 @@
+/gload
+*.exe
+*.test
+.DS_Store
